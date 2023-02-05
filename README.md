@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)](https://kishlayanand-droid.io)
+[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)](https://kishlayanand-droid.io)
 <h1 align="center">Hi 👋, I'm Kishlay Anand</h1>
 <h3 align="center">A passionate Learner and developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" >
